@@ -9,13 +9,13 @@ body {
   background-color: #fff;
   color: #222;
 }
-/* .hero {
+.hero {
   background: url('img/paint-bg.jpg') center center/cover no-repeat;
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-} */
+}
 .navbar {
   display: flex;
   justify-content: space-between;
